@@ -6,4 +6,4 @@
 This repository contains my solutions to the
 [Advent of Code](https://adventofcode.com/) challenges.
 
-I make the solution work, but it may not be perfect.
+I make the solution work, but it may not be perfect. I try not to spend much time on it.
