@@ -37,7 +37,7 @@ can help The Historians reconcile their lists?
 
 For example:
 
-```
+```text
 3   4
 4   3
 2   5
